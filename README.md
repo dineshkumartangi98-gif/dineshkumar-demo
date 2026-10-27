@@ -1,4 +1,4 @@
 # dineshkumar-demo
 this is my first repository
 <br>
-Author : Tangi Dinesh Kumar
+Author : Tangi Dinesh Kumar(apna college)
